@@ -6,5 +6,5 @@
 
 
 
-![](/README/mail.png)
+![](mail.png)
 
