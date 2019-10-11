@@ -1,2 +1,4 @@
-# Initial page
+# Мои работы
+
+* [mals](mals/initial.md) 
 
