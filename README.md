@@ -3,7 +3,7 @@
 ## Интеграция верстки
 
 * [Московское Долголетие](mos-dolgoletie/index.md)
-* [youconsult](https://youconsult.ru/)
+* [youconsult.ru](https://youconsult.ru/) , [youconsult.eu](https://youconsult.eu/)
 * [mals](mals/initial.md)
 
 
