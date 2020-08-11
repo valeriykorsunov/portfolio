@@ -2,8 +2,8 @@
 
 ## Интеграция верстки
 
-* [Московское Долголетие]()
-* [mals](mals/initial.md) 
+* [Московское Долголетие](mos-dolgoletie/index.md)
+* [mals](mals/initial.md)
 
 
 
