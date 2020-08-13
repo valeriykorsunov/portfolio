@@ -4,8 +4,7 @@
 
 Администрирование VMBitrix на centos
 
-Есть сертификат Битрикс:
-| | |
+| Мои сертификаты | |
 | ---- | ---- |
 | <a href="certificates/adminBase.pdf">Администратор.Базовый</a> | <img src="certificates/adminBase.jpg" width="200"> |
 
