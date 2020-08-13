@@ -2,7 +2,7 @@
 
 Знание  web-технологии: PHP, MySQL, HTML, CSS, JavaScript.
 
-Администрирование VMBitrix на centos
+Администрирование Bitrix на centOS
 
 | Мои сертификаты | |
 | ---- | ---- |
